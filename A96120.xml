@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The way to make all discerning lovers of truth of one mind: for the stronger opposition of those who would ruine them with errours and discords flowing from them. / By A lover of truth and peace ; published with authority.</title>
+            <author>Lover of truth and peace.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96120</idno>
+            <idno type="STC">Wing W1169A</idno>
+            <idno type="STC">ESTC R186320</idno>
+            <idno type="EEBO-CITATION">43077757</idno>
+            <idno type="OCLC">ocm 43077757</idno>
+            <idno type="VID">151872</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151872)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2280:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The way to make all discerning lovers of truth of one mind: for the stronger opposition of those who would ruine them with errours and discords flowing from them. / By A lover of truth and peace ; published with authority.</title>
+                  <author>Lover of truth and peace.</author>
+               </titleStmt>
+               <extent>[2], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by N.T. at the Entrance into the Old-Spring-Garden near Charing-Cross,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M DC LXXXVII [1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata on p. 36.</note>
+                  <note>Reproduction of original in: Lambeth Palace Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apologetics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151872:1" rendition="simple:additions"/>
+            <p>The Way to make all Diſcerning Lovers OF TRUTH Of One Mind: FOR THE Stronger Oppoſition of Thoſe who would Ruine Them with ERROURS and DISCORDS flowing from them.</p>
+            <p>
+               <hi>By a Lover of Truth and Peace.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed with Authority.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>N. T.</hi> at the Entrance into the <hi>Old-Spring-Garden</hi> near <hi>Charing-Croſs,</hi> MDCLXXXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:151872:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:151872:2"/>
+            <head>The way to make all diſ<g ref="char:EOLhyphen"/>cerning Lovers of Truth of one Mind; for the ſtronger Oppoſition of thoſe who would ruine them with Errors, and Diſcords flowing from them.</head>
+            <p>THE firſt ſtep to this is Charity. For Men ſhould rather love their Neighbours for the good they agree in, than hate, upon meer difference of Opinions.</p>
+            <p>The next, is to diſpute no more than we perfectly under<g ref="char:EOLhyphen"/>ſtand,
+<pb n="2" facs="tcp:151872:3"/>without violently impo<g ref="char:EOLhyphen"/>ſing our own conjectural Opi<g ref="char:EOLhyphen"/>nions on others.</p>
+            <p>The Third is, that right Rea<g ref="char:EOLhyphen"/>ſon and neceſſity, obligeth us to prefer Council and an Umpirage of all our Differences, before Blows with Murther and Ra<g ref="char:EOLhyphen"/>pine.</p>
+            <p>This hath been the Cauſe of all Governments and Laws, that the Force of the Strongeſt may not oppreſs the Innocence of the weaker Multitude.</p>
+            <p>And our <hi>Engliſh</hi> Judges and Juries, are nothing but ſo many ſworn Umpires to determine right in our differences.</p>
+            <p>But whether there be the ſame neceſſity for the finding, and fol<g ref="char:EOLhyphen"/>lowing the Truth of Divine Wor<g ref="char:EOLhyphen"/>ſhip,
+<pb n="3" facs="tcp:151872:3"/>ſhall be the Subject of the following Diſcourſe.</p>
+            <p>It is generally known to Man<g ref="char:EOLhyphen"/>kind, that the moſt ingenious and Potent Nations of the <hi>Greeks</hi> and <hi>Romans,</hi> with all the reſt of the World (except the <hi>Jews,</hi>) were for many Ages Idolaters; but hey agreed not in their Idols.</p>
+            <p>For ſome adored the departed Souls of great <hi>Heroes</hi> amongſt them in their ſeveral Statues. Others ſet up the Figures of their own imaginary Deities; But the moſt rational did either worſhip great Men, ſuppoſed to be tur<g ref="char:EOLhyphen"/>ned into Stars, or the real mo<g ref="char:EOLhyphen"/>ving Planets of <hi>Saturn, Jupiter, Venus, Mars, Apollo, &amp;c.</hi> but even to the Sun it ſelf, that gives Life to ſo many Inſects, and (ac<g ref="char:EOLhyphen"/>cording
+<pb n="4" facs="tcp:151872:4"/>to <hi>Ariſtotle,</hi>) to the gene<g ref="char:EOLhyphen"/>ration of Man, is but a circum<g ref="char:EOLhyphen"/>ſcribed Body, or a point, in re<g ref="char:EOLhyphen"/>ſpect of the Infinite ſpace of the Univerſe.</p>
+            <p>And appears to be but a great fiery Globe, by our contracting its Beams in a burning-glaſs, to generate Fire here on Earth: and therefore the <hi>Jews,</hi> who were more ancient Philoſophers and Hiſtorians than the Nations above-named, were ſatisfyed by their light of Reaſon, that the Grandeur, Beauty, Order, and ſeve<g ref="char:EOLhyphen"/>ral motions of the infinity of great luminous Bodies, with the admi<g ref="char:EOLhyphen"/>rable Architecture of Man, and the ſeveral <hi>Species</hi> of all living Creatures, could never be the work of Chance to unite the con<g ref="char:EOLhyphen"/>tradictory
+<pb n="5" facs="tcp:151872:4"/>Elements; nor of a Com<g ref="char:EOLhyphen"/>mon-wealth of Gods impriſoned in the indifferent Spheres, but of a Monarch infinite in Extent, Power, Wiſdom &amp; Goodneſs; and this immenſe goodneſs, revealed this undoubted Truth to his Ser<g ref="char:EOLhyphen"/>vant <hi>Moſes,</hi> whoſe miraculous March through the <hi>Red Sea,</hi> with the drowning of the following <hi>Aegyptians,</hi> and the opening of the Earth to ſwallow <hi>Corah,</hi> with thouſands of his rebellious Com<g ref="char:EOLhyphen"/>panions, were too great and pub<g ref="char:EOLhyphen"/>lick Miracles to be ſuſpected of Eorgery, ſince they were both acted and written in <hi>Moſes</hi> his own time, when they muſt have been contradicted by thouſands of then living Spectators, if not truly recited; and we know what
+<pb n="6" facs="tcp:151872:5"/>Credit theſe, and many other Miracles, have given to <hi>Moſes</hi> his Divine Books over the World, even unto this day.</p>
+            <p>But the infinite lover of Man<g ref="char:EOLhyphen"/>kind did continually ſupply the <hi>Jews,</hi> his then choſen People, with a ſupply of Prophets, and a Source of Miracles, not only to confirm them in their Belief, and Obedience to his Commands, and his then written Law, but pro<g ref="char:EOLhyphen"/>mis'd them by his Prophets of ſe<g ref="char:EOLhyphen"/>veral Ages, concurring in point of time, when a <hi>Meſſiah</hi> ſhould come to redeem and inſtruct all Nati<g ref="char:EOLhyphen"/>ons in the Methods of his future Worſhip, and promiſed to be with them for ever, as in <hi>Iſaiah,</hi> Chap. 21. Verſe 29. <hi>As for me, this is my Covenant with them,</hi> ſaith
+<pb n="7" facs="tcp:151872:5"/>the Lord, <hi>my Spirit which is upon thee, and my Words which I have put in thy Mouth, ſhall not depart out of thy mouth, nor out of the mouth of thy Seed, nor out of the mouth of thy Seed's Seed, ſaith the Lord, from henceforth, and for ever.</hi> And again in <hi>Daniel,</hi> Chap. 7. verſe 10 &amp; 14. <hi>I ſaw in the Night Viſions; and behold one like the Son of Man came with the Clouds of Heaven, and came to the ancient of days, and they brought him next before him.</hi>
+            </p>
+            <p>
+               <hi>And there was given Dominion and Glory, and a Kingdom, that all People, Nations and Languages ſhould ſerve him: his Dominion is an ever<g ref="char:EOLhyphen"/>laſting Dominion, which ſhall not paſs away; and his Kingdom that which ſhall not be deſtroyed.</hi>
+            </p>
+            <p>And there is all the aſſurance
+<pb n="8" facs="tcp:151872:6"/>that can be in humane Affairs, that the <hi>Jews</hi> could have no lies impoſed upon them; for their Twelve Tribes had their Nota<g ref="char:EOLhyphen"/>ries and Scribes to each of them, who recorded all remarkable oc<g ref="char:EOLhyphen"/>currences; and they often con<g ref="char:EOLhyphen"/>ferred Notes together, to pre<g ref="char:EOLhyphen"/>vent Forgeries and Miſtakes: ſo that never any Miracles were bet<g ref="char:EOLhyphen"/>ter warranted in confirmation of the rational Truth of their Law, that there is one Omnipotent Cre<g ref="char:EOLhyphen"/>ator, who made Man to love, worſhip and ſerve him, and no other Gods, in Confutation of Idolaters, and all other ſorts of Infidels.</p>
+            <p>And now ſince this learned and choſen People turned Apo<g ref="char:EOLhyphen"/>ſtate after the coming of <hi>Chriſt,</hi>
+               <pb n="9" facs="tcp:151872:6"/>whom they Crucified as an Uſurper and an Impoſtor, we ought to be very particular in the Confutation of ſuch a People; and of all our preſent Infidels, who (becauſe they would be cozened in nothing) will ſcarce believe there was a <hi>Julius Caeſar,</hi> an <hi>Alexander,</hi> or a <hi>Harry</hi> the 8th. becauſe they never ſaw them.</p>
+            <div type="part">
+               <head>Of the coming of <hi>Chriſt.</hi>
+               </head>
+               <p>THe Redeemer of Mankind came into the World at the very time prefixed by a Succeſſi<g ref="char:EOLhyphen"/>on of <hi>Jewiſh</hi> Prophets, and a concurrence of the <hi>Roman Cibils,</hi> and other diſ-intereſſed Perſons; and there was not other Pretender to be the <hi>Meſſiah</hi> near that time:
+<pb n="10" facs="tcp:151872:7"/>ſo that the blind <hi>Jews</hi> muſt ei<g ref="char:EOLhyphen"/>ther confeſs him to be their <hi>Meſ<g ref="char:EOLhyphen"/>ſiah,</hi> or their written Law and Prophets to be falſe.</p>
+               <p>But they pretended that he came not into the World like a King. But his low Birth was a clear demonſtration, that God would have nothing of Kindred, or Power, to mix in the miracu<g ref="char:EOLhyphen"/>lous Work of converting all the moſt conſiderable Nations of the World.</p>
+               <p>And therefore his Diſciples were choſen Men of as humble Birth, as free from Wealth, Power, or Parts to get them, as any great Undertakers could be: His Doctrine was not eaſie to be<g ref="char:EOLhyphen"/>lieve, as the Trinity, and Reſur<g ref="char:EOLhyphen"/>rection; and it was ſo free from
+<pb n="11" facs="tcp:151872:7"/>all Temptations to bait Mankind with, that it forbid plurality of Women, taught the ſuffering of all Injuries; and, inſtead of cove<g ref="char:EOLhyphen"/>ring Power, or Money, which gets, and keeps it; he taught the ſelling all, and giving the Money to the Poor, and taking up his Croſs, and following him.</p>
+               <p>And now I would ask the greateſt of his Enemies, what could make this Doctrine grow and proſper, but his Stupendious Miracles, and the omnipotent Hand of God.</p>
+               <p>And that he did recover the Lame and Blind, raiſe the Dead, turn Water into Wine, feed thouſands of People with the mi<g ref="char:EOLhyphen"/>raculous multiplication of a few Loaves and Fiſhes, and many
+<pb n="10" facs="tcp:151872:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:151872:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:151872:9"/>more, is as certain as univerſal Tradition, (which is ſurer than any Chronicle,) and the Teſti<g ref="char:EOLhyphen"/>mony of the then preſent and ſuc<g ref="char:EOLhyphen"/>ceeding Matters could make it.</p>
+               <p>To this I ſhall add the Te<g ref="char:EOLhyphen"/>ſtimony of an Adverſary. <hi>Joſe<g ref="char:EOLhyphen"/>phus,</hi> a <hi>Jew</hi> of Quality and Lear<g ref="char:EOLhyphen"/>ning, who liv'd about forty years after <hi>Chriſt,</hi> in his <hi>Jewiſh</hi> Hiſto<g ref="char:EOLhyphen"/>ry, doubts whether he may call <hi>Jeſus</hi> of <hi>Nazareth</hi> a Man, his Miracles were ſo great.</p>
+               <p>But the conſtant Deaths of him and moſt of his Apoſtles, are the ſureſt of all Evidences; for though St. <hi>Peter</hi> deny'd him, yet he dyed for his Truth; and tho' <hi>Judas</hi> betrayed him, he accuſed him not for an Impoſtor, but hanged himſelf for having be<g ref="char:EOLhyphen"/>tray'd juſt Blood.</p>
+               <pb n="13" facs="tcp:151872:9"/>
+               <p>And the miraculous Reſurre<g ref="char:EOLhyphen"/>ction of our Saviour, was evident to ſo many Witneſſes in ſeveral places, as confirm'd them all.</p>
+               <p>As St. <hi>Matthew, Chap.</hi> 28. <hi>ver.</hi> 6. <hi>He is not here, for he is riſen, as he ſaid, come ſee the place where the Lord lay;</hi> And again, <hi>ver.</hi> 10. <hi>Then ſaid Jeſus unto them, be not afraid; go tell my Brethren that they go into</hi> Galilee, <hi>and there ſhall they ſee me.</hi> And <hi>ver.</hi> 20. <hi>Teaching them to obſerve all things whatſoever I commanded you, and lo I am with you always, even unto the end of the World, Amen.</hi> And in St. <hi>Mark,</hi> Chap. 16. ver. 14. <hi>Afterwards be appeared to the Eleven as they ſat at Meat, and upbraided them with their unbelief and hardneſs of Heart, be<g ref="char:EOLhyphen"/>cauſe they believed not them which
+<pb n="14" facs="tcp:151872:10"/>had ſeen him after he was riſen.</hi> And in St. <hi>Luke,</hi> Chap. 24. ver. 36. <hi>And as they thus ſpake,</hi> Jeſus <hi>himſelf ſtood in the midſt of them, and ſaid unto them, Peace be unto you.</hi> And <hi>ver.</hi> 39. <hi>Behold my Hands and my Feet, that it is I my ſelf, handle me, and ſee, for a Spirit hath not Fleſh and Bones, as ye ſee Me have.</hi> And in St. <hi>John,</hi> Chap. 21. ver. 14. <hi>This is now the third time that</hi> Jeſus <hi>ſhewed himſelf to his Diſci<g ref="char:EOLhyphen"/>ples after that he was riſen from the Dead.</hi>
+               </p>
+               <p>Now we need cite no more Texts to prove the Reſurrection.</p>
+               <p>But his inſpired Apoſtles being timerous, and illiterate, were ſo changed by the Holy Ghoſt, that they had the courage to underake the Converſion of the greateſt
+<pb n="15" facs="tcp:151872:10"/>part of the known World; and were ſuddenly made Maſters of all Languages, to enable them to propagate their hard and un-plea<g ref="char:EOLhyphen"/>ſing Doctrine; as appears by ma<g ref="char:EOLhyphen"/>ny very plain Texts in the <hi>Acts of the Apoſtles,</hi> Chap. 2. and begins <hi>ver.</hi> 4. and ſo goes on to the 13. verſe.</p>
+               <p n="4">4. <hi>And they were all filled with the Holy Ghoſt, and began to ſpeak with other Tongues as the Spirit gave them utterance.</hi>
+               </p>
+               <p n="5">5. <hi>And there were dwelling at</hi> Jeruſalem, Jews, <hi>devout Men, out every Nation under Heaven.</hi>
+               </p>
+               <p n="6">6. <hi>Now when this was noiſed a<g ref="char:EOLhyphen"/>broad, the Multitude came together, and were confounded, becauſe that every man heard them ſpeak in his own language.</hi>
+               </p>
+               <pb n="16" facs="tcp:151872:11"/>
+               <p n="7">7. <hi>And they were all amazed, and marvelled, ſaying one to another, Behold! and are not all theſe that ſpeak</hi> Galileans?</p>
+               <p n="8">8. <hi>And how hear we every Man in our own Tongue wherein we were born.</hi>
+               </p>
+               <p n="9">9. Parthians, <hi>and</hi> Medes, <hi>and</hi> Elamites, <hi>and the dwellers in</hi> Me<g ref="char:EOLhyphen"/>ſopotamia, <hi>and in</hi> Judea, <hi>and</hi> Cap<g ref="char:EOLhyphen"/>padocia, <hi>in</hi> Pontus, <hi>and</hi> Aſia.</p>
+               <p n="10">10. Phrygia, <hi>and</hi> Pamphilia, <hi>in</hi> Aegypt, <hi>and in the parts of</hi> Lybia, <hi>about</hi> Cyrene, <hi>and Strangers of</hi> Rome, Jews <hi>and</hi> Proſelites.</p>
+               <p n="11">11. Cretes <hi>and</hi> Arabians; <hi>We do hear them ſpeak in our Tongues the wonderful Works of God.</hi>
+               </p>
+               <p n="12">12. <hi>And they were all amazed, and in doubt, ſaying one to another, What meanes this.</hi>
+               </p>
+               <p>Now the effects do clearly prove
+<pb n="17" facs="tcp:151872:11"/>the truth of this Miracle; For the Multitude of Converts in all theſe Nations, could not be made without Language; and a few poor illiterate Fiſhermen, could not learn all their Langua<g ref="char:EOLhyphen"/>ges at once, without he miracu<g ref="char:EOLhyphen"/>lous Power of God.</p>
+               <p>But the performance of this undertaking was the greateſt of all Miracles, that they and their Succeſſors affected, without the Compulſion of an Army, (which <hi>Mahomet</hi> uſed.)</p>
+               <p>But their Doctrine did ſpring up in Blood, in ſpight of all the Power and Tyranny of the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> with their varieties of cruel Deaths and Tortures to ſuppreſs it; till the miraculous Sign of the <hi>Croſs</hi> in the Air, Converted the
+<pb n="18" facs="tcp:151872:12"/>Great <hi>Conſtantine,</hi> with the grea<g ref="char:EOLhyphen"/>teſt part of his Army to Chriſti<g ref="char:EOLhyphen"/>anity, by thoſe Legible Words; <hi>In this Sign thou ſhalt overcome.</hi>
+               </p>
+               <p>And though <hi>Mahometiſm</hi> hath uſurped upon <hi>Chriſtianity</hi> in <hi>Aſia</hi> and <hi>Africa,</hi> yet the greater part of the <hi>Turks</hi> Subjects are <hi>Chriſti<g ref="char:EOLhyphen"/>ans</hi> ſtill: And God hath made as great an Addition to his Chriſtian Flock, as hath been elſewhere a<g ref="char:EOLhyphen"/>bated, in <hi>America</hi> alone; beſides the Advancement of it in <hi>China, Aethiopia,</hi> and other parts of the <hi>Eaſt Indies.</hi>
+               </p>
+               <p>And now, though I have ſaid nothing but what is expreſſed more learnedly and copiouſly in greater Volumes; yet ſince Epi<g ref="char:EOLhyphen"/>tomies are ſoon read over by thoſe, who may be buſie or neg<g ref="char:EOLhyphen"/>ligent,
+<pb n="19" facs="tcp:151872:12"/>when larger Tracts are laid by.</p>
+               <p>I do not diſtruſt, but that I have here laid enough together, to ſatisfie all diſcerning Lovers of Truth; and that I ſhall en<g ref="char:EOLhyphen"/>gage many Readers to be of a mind as far as Chriſtianity.</p>
+               <p>And now my next attempt will be the Union of <hi>Chriſtians</hi> amongſt themſelves.</p>
+               <p>But becauſe I am to cite ſe<g ref="char:EOLhyphen"/>veral Texts of Scripture, for the ſatisfaction of thoſe who relie upon nothing elſe.</p>
+               <p>I ſhall alſo aſſert the Truth of the New Teſtament, to endea<g ref="char:EOLhyphen"/>vour the ſatisfaction of thoſe who are no Lovers of Truth; but doubt or miſ-believe the Contents of it.</p>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:151872:13"/>
+               <head>And to begin with the four <hi>Evangeliſts,</hi> the firſt Writers of the New Law.</head>
+               <p>THE Tradition of moſt Nations, (omitting the Church Hiſtory, and Fathers, for Brevity ſake,) aſſure us that they were all Men of Exemplary Pi<g ref="char:EOLhyphen"/>ety and Sufferings, and Two of them were of the Twelve Apo<g ref="char:EOLhyphen"/>ſtles, who could miſtake nothing they were Actors in. And St. <hi>Matthew</hi> made good his miracu<g ref="char:EOLhyphen"/>lous Actions and Writings with his Blood. And St. <hi>John</hi> the beloved Apoſtle of our Saviour, ſuffered Torments worſe than Death. The other two were fam'd through all the Believing World for their great Sanctity.</p>
+               <pb n="21" facs="tcp:151872:13"/>
+               <p>It is enough to ſay that their Writings, (with the reſt of St. <hi>Paul,</hi> and the reſt of that myſterious Volume,) were wa<g ref="char:EOLhyphen"/>ter'd with the Bloods of their living and ſucceeding Diſciples: and that moſt of the Nations of <hi>Europe, Aſia,</hi> and <hi>Africa</hi> had great numbers of Martyrs, who dyed within the firſt three hundred years after Chriſt, with variety of exceſſive Torments, to juſti<g ref="char:EOLhyphen"/>fie the Contents of this Sacred Volume.</p>
+               <p>And if we conſider how it hath paſſed through many Lan<g ref="char:EOLhyphen"/>guages, and is preſerved to this day by moſt Nations, with very little difference: We may well call it the univerſal Chronicle not to be doubted.</p>
+               <pb n="22" facs="tcp:151872:14"/>
+               <p>For, if it be fooliſh to doubt the main of our own Chronicle, written by four or five Authors; what can we think of thoſe who doubt the Word of God, backt by ſo univerſal a Tradition, but that they cannot ſee the Sun for too much Light.</p>
+               <p>But though the whole Sacred Writ is a moſt precious Liquor, yet there are obſcure intoxicating parts of it, that are too ſtrong for our weak Brains: Witneſs the uncharitable contradictory Sects ſprung from it, whoſe Bloody Effects have ſufficiently appear'd in our own Nation.</p>
+               <p>But ſince obſcure places ought to be explained, becauſe nothing in the word of God can be im<g ref="char:EOLhyphen"/>pertinent; and that a great part
+<pb n="23" facs="tcp:151872:14"/>of the World which ought to be ſaved, cannot read; and few that can, do well underſtand what they read: Reaſon doth lead us to the neceſſity of laying aſide what we underſtand not, and leave it all to a learned Umpire Church; as we do the Moot Points of the Common Law, to the Learned in that Profeſſion, as I before hinted.</p>
+               <p>But how to be ſure of this true Church, let us learn if we can, out of the plain Texts of the Canonical parts of an Epiſcopal Proteſtant Bible.</p>
+               <p>We find that in St. <hi>Mark,</hi> Chap. 16. <hi>ver.</hi> 15. &amp; 16. our Saviour ſaid to his Diſciples, <hi>And be ſaid unto them, Go ye into all the the World, and Preach the Goſpel unto every Creature.</hi>
+               </p>
+               <pb n="24" facs="tcp:151872:15"/>
+               <p>
+                  <hi>He that believeth, and is Bapti<g ref="char:EOLhyphen"/>zed, ſhall be ſaved; But he that believeth not, ſhall be damned.</hi>
+               </p>
+               <p>And in St. <hi>Matthew,</hi> Chap. 28. <hi>ver.</hi> 20. <hi>Chriſt</hi>'s own Words; <hi>Lo, I am with you always, even unto the end of the World.</hi>
+               </p>
+               <p>And in St. <hi>John,</hi> Chap. 14. <hi>ver.</hi> 16. <hi>And I will pray the Father, and be ſhall give you another Com<g ref="char:EOLhyphen"/>forter, that he may abide with you for ever.</hi>
+               </p>
+               <p>We find apparently in theſe three Texts, that Damnation is denounced to all miſ-believers.</p>
+               <p>And <hi>Chriſt</hi> hath promiſed to be with his Church to the end of the World.</p>
+               <p>Which is a plain demonſtra<g ref="char:EOLhyphen"/>tion, that it muſt be always a
+<pb n="25" facs="tcp:151872:15"/>viſible true Church to the end of the World.</p>
+               <p>And God farther declar'd, that whatſoever this Church bindeth or looſeth on Earth, ſhall be ſo in Heaven.</p>
+               <p>And St. <hi>Matthew,</hi> Chap. 17. &amp; 18. <hi>And if be ſhall neglect to hear thee, tell it unto the church; and and if he neglect to hear the Church, let him be unto thee as a</hi> Heathen <hi>man, and a</hi> Publican.</p>
+               <p>
+                  <hi>Verily I ſay unto you, whatſoever ye ſhall bind on Earth, ſhall be bound in Heaven; and whatſoever ye ſhall looſe on Earth, ſhall be loo<g ref="char:EOLhyphen"/>ſed in Heaven.</hi>
+               </p>
+               <p>In this Text all that deny to hear the true Church, are con<g ref="char:EOLhyphen"/>demned as Heathens.</p>
+               <pb n="26" facs="tcp:151872:16"/>
+               <p>And to proceed, to more proofs of the Foundation of a true Church in the Apoſtles. <hi>Chriſt</hi>'s words to St. <hi>Peter</hi> are found in St. <hi>Mat<g ref="char:EOLhyphen"/>thew,</hi> Chap. 16. <hi>ver.</hi> 18 and 19. <hi>And I ſay alſo unto thee, that thou art</hi> Peter, <hi>and upon this Rock will I build my Church, and the Gates of Hell ſhall not prevail againſt it.</hi>
+               </p>
+               <p>
+                  <hi>And I will give unto thee the Keys of the Kingdom of Heaven; and whatſoever thou ſhalt bind on Earth, ſhall be bound in Heaven; and whatſoever thou ſhalt looſe on Earth, ſhall be looſed in Heaven.</hi>
+               </p>
+               <p>And St. <hi>John,</hi> Chap. 21. <hi>ver.</hi> 15, 16, 17. there are three Re<g ref="char:EOLhyphen"/>petitions of <hi>Chriſt</hi> to St. <hi>Peter.</hi>
+               </p>
+               <p>
+                  <hi>Feed my Lambs, feed my Sheep, feed my Sheep.</hi>
+               </p>
+               <p>Now theſe Texts do evidently
+<pb n="27" facs="tcp:151872:16"/>imply, that St. <hi>Peter</hi> was a Fa<g ref="char:EOLhyphen"/>vourite; and if any one of the Apoſtles had Supremacy over the reſt, it muſt be He.</p>
+               <p>But now I ſhall proceed to prove by a Text, that the Apo<g ref="char:EOLhyphen"/>ſtles were all Biſhops; for if <hi>Ju<g ref="char:EOLhyphen"/>das</hi> was one, the reſt are not to be doubted: for in the Reproofs of <hi>Judas</hi> it is written in the <hi>Acts,</hi> Chap. 1. <hi>ver.</hi> 20. <hi>For it is written in the Book of Pſalms, Let his Ha<g ref="char:EOLhyphen"/>bitation be deſolate, and let no Man dwell therein; and his Biſhoprick let another take.</hi>
+               </p>
+               <p>And now let the <hi>Calviniſts,</hi> and all other Sectaries, that Co<g ref="char:EOLhyphen"/>venanted and fought againſt <hi>Po<g ref="char:EOLhyphen"/>pery</hi> and <hi>Prelacy,</hi> and depoſed our <hi>Engliſh</hi> Biſhops, excuſe their Per<g ref="char:EOLhyphen"/>ſecution, if they can, of Biſhops,
+<pb n="28" facs="tcp:151872:17"/>as Uſurpers, Unlawful, and An<g ref="char:EOLhyphen"/>tichriſtian: Sure they will not ſay the Apoſtles were <hi>Antichri<g ref="char:EOLhyphen"/>ſtian;</hi> Nor need we any further Proof out of St. <hi>Paul</hi>'s Epiſtle to <hi>Titus</hi> and <hi>Timothy,</hi> to make out that there were Biſhops, as well as Presbyters, in God's Church in his time.</p>
+               <p>But we may without doubt conclude, that <hi>John Calvin,</hi> when he ſeparated from all Epiſcopal Churches, he did revolt from the Apoſtles and their true Succeſ<g ref="char:EOLhyphen"/>ſors, be they whom they will, and ſo incurred the Penalty or the Text already mentioned, <hi>That be that will not hear the Church, ſhall be as a Heathen Man, and a</hi> Pub<g ref="char:EOLhyphen"/>lican.</p>
+               <p>He renounced that Church
+<pb n="29" facs="tcp:151872:17"/>which <hi>Chriſt</hi> ſaid he was with to the end of the World.</p>
+               <p>And he was worſe than any other Independant, for he eſta<g ref="char:EOLhyphen"/>bliſhed a coerſive Power in eve<g ref="char:EOLhyphen"/>ry Pariſh, as abſolute as that of a Biſhop in his Dioceſs; and left no Power to correct the ill man<g ref="char:EOLhyphen"/>ners of any of his Rulers, but the remote one of a National Synod.</p>
+               <p>The <hi>Roman, Greek, Lutheran,</hi> and <hi>Engliſh</hi> Biſhops are all alike obliged to this Presbiterian Re<g ref="char:EOLhyphen"/>former; but he deſign'd, that the heavy charge of Idolatry ſhould juſtifie all the Confuſion of his Doctrine; and therefore few of his Followers (if any) will kneel to receive the Sacrament.</p>
+               <p>But the <hi>Roman Catholicks</hi> and
+<pb n="30" facs="tcp:151872:18"/>Epiſcopal <hi>Proteſtants</hi> of <hi>England,</hi> (if not the reſt) do kneel, to ſhew their Reſpect to what God's Word hath given them; though they differ whether they ſhould follow the Literal or Myſtical Senſe of the Text.</p>
+               <p>But I ſhall endeavour to make it appear, that no <hi>Chriſtian</hi> Church can be guilty of Idolatry.</p>
+               <p>The Church which <hi>Chriſt</hi> is always with, cannot, becauſe God hath forbidden it often.</p>
+               <p>And none of the reſt believe, or have taught a multiplicity of Gods.</p>
+               <p>Nor have any <hi>Chriſtians</hi> com<g ref="char:EOLhyphen"/>manded the Worſhipping of Images, or any thing but a Tri<g ref="char:EOLhyphen"/>une God, repleniſhed with Infi<g ref="char:EOLhyphen"/>nite Wiſdom, Power, and Cha<g ref="char:EOLhyphen"/>rity.</p>
+               <pb n="31" facs="tcp:151872:18"/>
+               <p>As for <hi>Idolatry,</hi> it conſiſteth not in outward reſpects to Crea<g ref="char:EOLhyphen"/>tures, without an evil concur<g ref="char:EOLhyphen"/>rence of the Heart to Worſhip, and prefer a Senat of Gods, be<g ref="char:EOLhyphen"/>fore the only true Monarchical God. For we muſt all turn <hi>Quakers,</hi> if ſigns of our Civility and Humility are forbidden; no man muſt put off his Hat to another, nor bow down his Head in Salutation; much leſs kneel to a Soveraign Prince to kiſs his Hand; or kneel at his Prayers in a Room where a Crucifix or Pi<g ref="char:EOLhyphen"/>cture is.</p>
+               <p>But I would ſatisfie the very <hi>Quakers,</hi> that the Idolatry which the Primitive <hi>Chriſtians</hi> avoided, was the entring into a <hi>Pagan</hi> Church, there to Worſhip a
+<pb n="32" facs="tcp:151872:19"/>forbidden Idol, as a denyal of <hi>Chriſt</hi> before Men, who then would deny them before his Hea<g ref="char:EOLhyphen"/>venly Father.</p>
+               <p>And now I ſhall proceed to the Marks of the true Church, that my Readers may eaſily find it.</p>
+               <p>And firſt for the univerſality of the true Church, I ſhall only cite one Text out of St. <hi>Mark, Chap.</hi> 16. <hi>ver.</hi> 15. <hi>And he ſaid unto them, go ye into all the World, and Preach the Goſpel to every Creature.</hi>
+               </p>
+               <p>Now whatever Church is moſt extended, and doth yet con<g ref="char:EOLhyphen"/>tinue Preaching to moſt Nations, muſt needs be preferred before thoſe Churches, that want this Mark.</p>
+               <p>As for the Succeſſion, it muſt
+<pb n="33" facs="tcp:151872:19"/>be where <hi>Chriſt</hi> is always in a vi<g ref="char:EOLhyphen"/>ſible Church for Men to hear.</p>
+               <p>And if any Church proves an Hiſtorical Succeſſion from any of the Apoſtles, and no o<g ref="char:EOLhyphen"/>ther Church pretends to the ſame, that muſt be the true Church, which <hi>Chriſt</hi> is always with; and which, whoſoever refuſes to hear, muſt be a Heathen Man, as in the Texts before mentioned.</p>
+               <p>Laſtly, the Nature of all Go<g ref="char:EOLhyphen"/>vernments neceſſarily requiring an Umpire, to avoid Diſcords both in Church and State; we may conclude that Biſhops are neceſſary Overſeers of the Preſ<g ref="char:EOLhyphen"/>biterian Clergy; and Archibi<g ref="char:EOLhyphen"/>ſhops are continued in <hi>England</hi> (which was once a part of ano<g ref="char:EOLhyphen"/>ther Church) to regulate the fai<g ref="char:EOLhyphen"/>lings
+<pb n="34" facs="tcp:151872:20"/>of diſperſed Biſhops.</p>
+               <p>And if there were but two Archbiſhops in the World, they might, as Men, erre in matters of Fact, and ſo want an Overſeer to regulate their Diviſions, Man<g ref="char:EOLhyphen"/>ners and Diſcipline. So that we naturally riſe to a Succeſſor of <hi>Chriſt,</hi> as abſolute in matters of Faith, as if <hi>Chriſt</hi> were viſibly with him, who hath promiſed to be always with him, as is above proved.</p>
+               <p>Now tho' St. <hi>Peter</hi>'s Style is faireſt to the Monarchical Church-Power by the foremention'd <hi>Texts,</hi> yet I ſhall forbear to pronounce the Succeſſion, but ſhall con<g ref="char:EOLhyphen"/>clude with a certain rule to find it out by; and that is; examin who have been the chief Biſhops to
+<pb n="35" facs="tcp:151872:20"/>call and diſſolve the major part of general Councils, ſince the Emperors (who did it in the In<g ref="char:EOLhyphen"/>fancy of the Church) left it.</p>
+               <p>And if general Councils are the Parliaments of <hi>Chriſtendom;</hi> and that it is a madneſs to think that God's Bleſſing is not more upon ſo many Learned and Pi<g ref="char:EOLhyphen"/>ous Men of all <hi>Chriſtian</hi> Nations, expounding hard places of Scrip<g ref="char:EOLhyphen"/>ture, then upon the Inteterpre<g ref="char:EOLhyphen"/>tation of any private Spirit: we may conclude that the Prelate, who aſſembles and diſſolves the choſen Divines of all <hi>Chriſtian</hi> Nations at his Pleaſure, and ne<g ref="char:EOLhyphen"/>ver got this Power by force of Arms, muſt be the Univerſal Spiritual Monarch, whom <hi>Chriſt</hi>
+                  <pb n="36" facs="tcp:151872:21"/>hath promiſed to be always with to the end of the World, as a<g ref="char:EOLhyphen"/>bove cited.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 3. l. 20. inſtead of (to the Sun) read the Sun, p. 6. l. 20. inſtead of Chap. 21. ver. 29. read Chap. 29. ver. 21. p. 17. l. 12. inſtead of affected, read effected. p. 25. l. 7. inſtead of Chap. 17. and 18. read Chap. 18. ver. 17. and 18.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Nat. Thompſon</hi> at the En<g ref="char:EOLhyphen"/>trance into <hi>Old Spring Garden</hi> near <hi>Charing-Croſs,</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
